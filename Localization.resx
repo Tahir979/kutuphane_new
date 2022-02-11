@@ -1,0 +1,1494 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="a1Sınıf" xml:space="preserve">
+    <value>1.Sınıf</value>
+  </data>
+  <data name="a2Sınıf" xml:space="preserve">
+    <value>2.Sınıf</value>
+  </data>
+  <data name="a3Sınıf" xml:space="preserve">
+    <value>3.Sınıf</value>
+  </data>
+  <data name="a4Sınıf" xml:space="preserve">
+    <value>4.Sınıf</value>
+  </data>
+  <data name="aaaaa" xml:space="preserve">
+    <value>Yapılan İşlem</value>
+  </data>
+  <data name="acik" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="acikk" xml:space="preserve">
+    <value>Açık</value>
+  </data>
+  <data name="Ad" xml:space="preserve">
+    <value>Ad</value>
+  </data>
+  <data name="adminler" xml:space="preserve">
+    <value>adminler</value>
+  </data>
+  <data name="Ad_2" xml:space="preserve">
+    <value>@Ad</value>
+  </data>
+  <data name="Anasayfa_Btnkitapalankisiler_Text" xml:space="preserve">
+    <value>Kişi İşlemleri</value>
+  </data>
+  <data name="Anasayfa_Btnyenikitap_Text" xml:space="preserve">
+    <value>Kitap İşlemleri</value>
+  </data>
+  <data name="anasayfa_label10" xml:space="preserve">
+    <value>Sadece kitap arama ya da öylesine göz atma niyetindeyseniz "admin yetkisi"ni açmanıza / almanıza gerek yoktur</value>
+  </data>
+  <data name="anasayfa_label15" xml:space="preserve">
+    <value>Sevgili arkadaşlar, topluluktan aldığınız kitapları içinde bulunduğumuz dönemin sonuna kadar getirmenizi rica ediyoruz, lütfen buna dikkat edelim unutmayalım ki başka bir arkadaşımızın da o kitaba ihtiyacı olabilir bu yüzden</value>
+  </data>
+  <data name="anasayfa_label16" xml:space="preserve">
+    <value>Kütüphaneden faydalanan arkadaşlarımıza ricamız</value>
+  </data>
+  <data name="anasayfa_label17" xml:space="preserve">
+    <value>Kitapları teslim etmeyi lütfen unutmayalım.</value>
+  </data>
+  <data name="Anasayfa_Label1_Text" xml:space="preserve">
+    <value>Ana menü</value>
+  </data>
+  <data name="Anasayfa_Label2_Text" xml:space="preserve">
+    <value>Faydalı Linkler</value>
+  </data>
+  <data name="anasayfa_label5" xml:space="preserve">
+    <value>Açık admin:</value>
+  </data>
+  <data name="anasayfa_label7" xml:space="preserve">
+    <value>Admin yetkisi:</value>
+  </data>
+  <data name="Anasayfa_Linklabel1_Text" xml:space="preserve">
+    <value>Kütüphane düzeni</value>
+  </data>
+  <data name="Anasayfa_Linklabel2_Text" xml:space="preserve">
+    <value>Kitap alma kuralları</value>
+  </data>
+  <data name="Anasayfa_Linklabel3_Text" xml:space="preserve">
+    <value>Amacımız </value>
+  </data>
+  <data name="Anasayfa_Linklabel4_Text" xml:space="preserve">
+    <value>Emeği geçenler</value>
+  </data>
+  <data name="Anasayfa_Linklabel5_Text" xml:space="preserve">
+    <value>Tüm HÜPT kayıtları</value>
+  </data>
+  <data name="anasayfa_linklabel6" xml:space="preserve">
+    <value>Admin yetkisi al</value>
+  </data>
+  <data name="anasayfa_linklabel7" xml:space="preserve">
+    <value>Neden admin 
+yetkisi almalıyım?</value>
+  </data>
+  <data name="anasayfa_linklabel8" xml:space="preserve">
+    <value>Giriş Yap</value>
+  </data>
+  <data name="anasayfa_linklabel9" xml:space="preserve">
+    <value>Adminlerin işlem kayıtları</value>
+  </data>
+  <data name="Bilgilendirme" xml:space="preserve">
+    <value>Bilgilendirme</value>
+  </data>
+  <data name="bmn" xml:space="preserve">
+    <value>E-mailinize gelen doğrulama kodu:</value>
+  </data>
+  <data name="bnhjk" xml:space="preserve">
+    <value> ID numaralı kitap üstünde yaptığınız değişiklikler işlem kaydına başarıyla kaydedildi.</value>
+  </data>
+  <data name="bnmök" xml:space="preserve">
+    <value>Kayıtlı olan telefon numarası</value>
+  </data>
+  <data name="bosdeger" xml:space="preserve">
+    <value />
+  </data>
+  <data name="bosluk" xml:space="preserve">
+    <value> </value>
+  </data>
+  <data name="bsgfg" xml:space="preserve">
+    <value>Kayıtlı olan raf katı</value>
+  </data>
+  <data name="btnyenikitap_tooltiptext" xml:space="preserve">
+    <value>Kütüphaneye yeni bir kitap gelmişse eklemek, gitmişse silmek ya da hatalı bir veri varsa düzeltmek için bu menüyü kullanınız.</value>
+  </data>
+  <data name="btn_frmtüm" xml:space="preserve">
+    <value>Tabloyu eski 
+haline döndür</value>
+  </data>
+  <data name="btn_geri_kitapvekisi_tooltip" xml:space="preserve">
+    <value>Anamenü'ye dönün</value>
+  </data>
+  <data name="btn_kapa" xml:space="preserve">
+    <value>Programı kapatın</value>
+  </data>
+  <data name="btn_kitapalankısıler_tooltiptext" xml:space="preserve">
+    <value>Kitap alma/teslim etme gibi işlemler için bu menüyü kullanınız.</value>
+  </data>
+  <data name="btn_minimize" xml:space="preserve">
+    <value>Programı simge boyutuna getirin</value>
+  </data>
+  <data name="button4_fadf" xml:space="preserve">
+    <value>Kutucukları Temizle</value>
+  </data>
+  <data name="Dear" xml:space="preserve">
+    <value>Sevgili </value>
+  </data>
+  <data name="dfhfd" xml:space="preserve">
+    <value>Kayıtlı olan şifre</value>
+  </data>
+  <data name="dgfaahfha" xml:space="preserve">
+    <value>Şifreniz başarıyla onaylandı.</value>
+  </data>
+  <data name="dhsddh" xml:space="preserve">
+    <value>Şifre yanlış girildi.</value>
+  </data>
+  <data name="dilsecimi" xml:space="preserve">
+    <value>Dil Seçimi</value>
+  </data>
+  <data name="dilSeçmekİçinTıklayınızToolStripMenuItem1" xml:space="preserve">
+    <value>Dil seçmek için tıklayınız</value>
+  </data>
+  <data name="dil_et" xml:space="preserve">
+    <value>@dil</value>
+  </data>
+  <data name="dlscm" xml:space="preserve">
+    <value>Dil seçmek için tıklayınız</value>
+  </data>
+  <data name="dsgas" xml:space="preserve">
+    <value>@kullaniciadi</value>
+  </data>
+  <data name="dvs" xml:space="preserve">
+    <value> ID numaralı kişiyi silme işleminiz işlem kaydına başarıyla eklendi.</value>
+  </data>
+  <data name="düzID" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="düzkitapid" xml:space="preserve">
+    <value>kitapid</value>
+  </data>
+  <data name="edcv" xml:space="preserve">
+    <value>. İşinizi bitirdikten sonra yetkinizi kapatmayı lütfen unutmayınız.</value>
+  </data>
+  <data name="ekle" xml:space="preserve">
+    <value>ekle</value>
+  </data>
+  <data name="eksibir" xml:space="preserve">
+    <value>-1</value>
+  </data>
+  <data name="emek" xml:space="preserve">
+    <value>Emeği Geçenler</value>
+  </data>
+  <data name="emekmesaj1" xml:space="preserve">
+    <value>Yukarıda ismi yazılı olan tüm arkadaşlarımıza kütüphane ve odanın genel olarak daha düzenli bir hale gelmesi için sarf ettikleri emeklerinden dolayı HÜPT ailesi olarak en içten dileklerimizle teşekkür ederiz.</value>
+  </data>
+  <data name="emekmesaj2" xml:space="preserve">
+    <value>Topluluk olarak mesajımız ise yukarıda bu iş için emek sarfeden 48 kişinin emeklerine saygı olarak ve ilerisi için daha derli toplu bir topluluk odası bırakmak adına lütfen kitapları aldığımız yere geri koyalım ve odanın düzenini elimizden geldiği kadar bozmamaya çalışalım, LÜTFEN.</value>
+  </data>
+  <data name="English" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="f" xml:space="preserve">
+    <value>@kullaniciadi</value>
+  </data>
+  <data name="fdads" xml:space="preserve">
+    <value>Adminlik yetkinizi devam ettirmek istiyor musunuz?</value>
+  </data>
+  <data name="fddsa" xml:space="preserve">
+    <value>Sistem üstündeki denetimler kaldırıldı, admin onayı olmadan işlem yapabilirsiniz.</value>
+  </data>
+  <data name="fdhhfd" xml:space="preserve">
+    <value>Siz olduğunuzu başarıyla onayladık, güncelleme işlemine başlayabilirsiniz.</value>
+  </data>
+  <data name="fdsd" xml:space="preserve">
+    <value>Kayıtlı olan kitaplık ismi</value>
+  </data>
+  <data name="formload_en" xml:space="preserve">
+    <value>en-US</value>
+  </data>
+  <data name="formload_hupt" xml:space="preserve">
+    <value>hüpt</value>
+  </data>
+  <data name="formload_jp" xml:space="preserve">
+    <value>ja-JP</value>
+  </data>
+  <data name="formload_toolstripmenu_ingilizce" xml:space="preserve">
+    <value>İngilizce</value>
+  </data>
+  <data name="formload_toolstripmenu_japonca" xml:space="preserve">
+    <value>Japonca</value>
+  </data>
+  <data name="formload_toolstripmenu_turkce" xml:space="preserve">
+    <value>Türkçe</value>
+  </data>
+  <data name="formload_tr" xml:space="preserve">
+    <value />
+  </data>
+  <data name="frgr" xml:space="preserve">
+    <value>@tarihvesaat</value>
+  </data>
+  <data name="frmadmin_asd" xml:space="preserve">
+    <value>Bu mail adresi daha önceden alınmıştır.</value>
+  </data>
+  <data name="frmadmin_btn" xml:space="preserve">
+    <value>Adminlik yetkisi almak istiyorum</value>
+  </data>
+  <data name="frmadmin_err" xml:space="preserve">
+    <value>Lütfen kutucukların yanında çıkan kırmızı nesnenin söylediği sorunları hallediniz.</value>
+  </data>
+  <data name="frmadmin_ert" xml:space="preserve">
+    <value>Bu kullanıcı adı daha önceden alınmıştır.</value>
+  </data>
+  <data name="frmadmin_fgh" xml:space="preserve">
+    <value>Doğrulama kodu başarı ile gönderilemedi, lütfen internet bağlantınızı kontrol ediniz.</value>
+  </data>
+  <data name="frmadmin_ghj" xml:space="preserve">
+    <value>Bu mail adresi uygundur.</value>
+  </data>
+  <data name="frmadmin_gty" xml:space="preserve">
+    <value>Lütfen geçerli bir e-mail formatı giriniz.</value>
+  </data>
+  <data name="frmadmin_kgh" xml:space="preserve">
+    <value>Doğrulama kodunuz e-mail hesabınıza başarı ile gönderilmiştir. Lütfen doğrulama kodunuzu diğer formda kullanınız.</value>
+  </data>
+  <data name="frmadmin_klj" xml:space="preserve">
+    <value>Kullanıcı adı boş bırakılamaz.</value>
+  </data>
+  <data name="frmadmin_ktc" xml:space="preserve">
+    <value>Lütfen kutucuğu doldurunuz.</value>
+  </data>
+  <data name="frmadmin_label1" xml:space="preserve">
+    <value>Adminlik Yetkisi Alma Menüsü</value>
+  </data>
+  <data name="frmadmin_label10" xml:space="preserve">
+    <value>Kullanıcı Adı:</value>
+  </data>
+  <data name="frmadmin_label12" xml:space="preserve">
+    <value>Şifre:</value>
+  </data>
+  <data name="frmadmin_label3" xml:space="preserve">
+    <value>Ad:</value>
+  </data>
+  <data name="frmadmin_label4" xml:space="preserve">
+    <value>Soyad:</value>
+  </data>
+  <data name="frmadmin_label6" xml:space="preserve">
+    <value>1. Özel karakterler(*, -, ", | gibi) kullanılamayacaktır.</value>
+  </data>
+  <data name="frmadmin_label7" xml:space="preserve">
+    <value>2. Adminlik yetkisi alırken internetin bağlı olmasına özen gösteriniz.</value>
+  </data>
+  <data name="frmadmin_label8" xml:space="preserve">
+    <value>3. Mailinizi yazarken "gmail" ya da "hotmail" uzantılı olmasına dikkat ediniz, öteki uzantılar program tarafından kabul edilmeyecektir.</value>
+  </data>
+  <data name="frmadmin_ujk" xml:space="preserve">
+    <value>Bu kullanıcı adını uygundur.</value>
+  </data>
+  <data name="frmadmin_xb" xml:space="preserve">
+    <value>Lütfen doğrulama kodunu tekrar giriniz</value>
+  </data>
+  <data name="frmamac_formname" xml:space="preserve">
+    <value>Amacımız Nedir?</value>
+  </data>
+  <data name="frmamac_label1_Text" xml:space="preserve">
+    <value>Bu programın yapılma amacı elimizdeki kütüphaneyi daha verimli kullanmak, kütüphanenin kaynaklarının ne olduğunu bilmek ve bunlardan yararlanarak bizlere fayda sağlamaktır. Bir şey aramak için geldiğimiz çoğu zaman maalesef kütüphanenin karışıklığından dolayı aradığımız şeyleri varsa bile bulamıyoruz. Böyle bir durum olunca bizde HÜPT olarak kütüphaneyi daha işlevsel hale getirmek istedik ve sonuç olarak bu program ortaya çıktı.</value>
+  </data>
+  <data name="frmanasayfa_font" xml:space="preserve">
+    <value>Microsoft Sans Serif</value>
+  </data>
+  <data name="frmarama_groupbox" xml:space="preserve">
+    <value>Açıklama</value>
+  </data>
+  <data name="frmarama_label1" xml:space="preserve">
+    <value>3-) Sadece isim soyisim ya da kitap ismi yazarak değil gerekirse kitaplık ismi, basım yılı, kitap dili gibi ek seçeneklerle de arama yapabilirsiniz. (Tüm arama işlemleri eş zamanlı olarak yapılmaktadır. Yani isterseniz sadece bir özelliğe göre de arama yapabilirsiniz 5 seçeneğe göre de, bu sizin arama tercihinize bırakılmıştır)</value>
+  </data>
+  <data name="frmarama_label3" xml:space="preserve">
+    <value>1-) Kitap arama için kitabın ismini tamamen yazmak zorunda değilsiniz, aşağıdaki şekilde de kitap araması yaparsanız eğer öyle bir kitap varsa listelenecektir, ayrıca büyük-küçük harfle yazmanız bir şeyi etkilemez.</value>
+  </data>
+  <data name="frmarama_label4" xml:space="preserve">
+    <value>Kitabımızın ismi "Hacettepe Üniversitesi" olsun, siz bunu bulmak için aşağıdaki gibi arama yaparak bulabilirsiniz:</value>
+  </data>
+  <data name="frmarama_label5" xml:space="preserve">
+    <value>-hacettepe, cettepe, tepe, acet, Hace, üniversite, üni, versite, versi, site, cettepe, cet....</value>
+  </data>
+  <data name="frmarama_label6" xml:space="preserve">
+    <value>Programda arama yapmak için kitabın tüm ismini yazmanıza gerek yoktur, yukarıdaki örneklerde olduğu gibi kitabın adını oluşturan kelimeler içindeki herhangi "sıralı" bir bütün o kitabı bulmanızda yardımcı olacaktır, mesela bu kitabı bulmak için "acet" yerine "ceta" şeklinde arama yaparsanız programda listelenmeyecektir.(hem yazar hem kitap aramaları için geçerlidir)</value>
+  </data>
+  <data name="frmarama_label7" xml:space="preserve">
+    <value>2-) Yazarların isimleri kitapların üstünde yazılan şekilde kaydedilmiştir, uzun yazıyorsa uzun; kısaltılmış bir şekilde yazıyorsa kısaltmış bir şekilde programa kaydedilmiştir(Ör: Mehmet Akif Sayılgan ya da A.Gül Aydın ya da Gül N. Eryüksel) ama hiç bir yazarın unvanı yazılmamıştır kitap üstünde yazsa bile. Bu yüzden, eğer yazar araması yapacaksanız arama yaparken her iki isimi ayrı ayrı yazarak ya da soyismini yazarak yazarı aramanızı tavsiye ederim çünkü bazı yazarların ikinci ismi kısaltmaya uğrarken bazılarının ilk ismi kısaltmaya uğruyor; ama soyisim hiç birinde kısaltmaya uğramıyor.</value>
+  </data>
+  <data name="frmarama_text" xml:space="preserve">
+    <value>Nasıl Arama Yapılır?</value>
+  </data>
+  <data name="frmdgr_basari" xml:space="preserve">
+    <value>Adminlik yetkiniz başarıyla verilmiştir.</value>
+  </data>
+  <data name="frmdgr_btn" xml:space="preserve">
+    <value>Onaylıyorum</value>
+  </data>
+  <data name="frmdgr_label1" xml:space="preserve">
+    <value>Doğrulama Kodunu Giriniz:</value>
+  </data>
+  <data name="frmduzen_formisim" xml:space="preserve">
+    <value>Kitaplık Düzeni</value>
+  </data>
+  <data name="frmduzen_groupboxtext" xml:space="preserve">
+    <value>Düzen Açıklaması</value>
+  </data>
+  <data name="frmduzen_label13_Text" xml:space="preserve">
+    <value>Tüm kitaplar kendi içeriklerine uygun olan raflara tek tek yerleştirildi daha sonra bu kitapların her birine bir numara verildi. Kitaplar programa kaydedilirken hangi kitaplıkta hangi rafta hangi numara ile bulunduğu kaydedilmiştir.</value>
+  </data>
+  <data name="frmduzen_label14_Text" xml:space="preserve">
+    <value>Yan tarafta örnek amaçlı bir kitaplık düzeni gösterilmiştir.</value>
+  </data>
+  <data name="frmduzen_label15_Text" xml:space="preserve">
+    <value>Ayrıca, programdaki "Kitaplık İsmi" kısmında, kitapları yerleştirdiğimiz kitaplıkların isimleri ve kitapların üstünde hangi kısaltma ile onu belli ettiğimiz yazar.</value>
+  </data>
+  <data name="frmduzen_label16_Text" xml:space="preserve">
+    <value>Kitaplıkta, Deneysel Psikoloji için "D" harfi kullanılmıştır, mesela deneysel kitaplığındaki 3.kattaki 60.numaralı kitabın üstünde "D-60" şeklinde bir numaralama olacaktır(Rafların yanında yazan numaralar temsilidir).</value>
+  </data>
+  <data name="frmduzen_label1_Text" xml:space="preserve">
+    <value>1.Kat</value>
+  </data>
+  <data name="frmduzen_label2_Text" xml:space="preserve">
+    <value>2.Kat</value>
+  </data>
+  <data name="frmduzen_label3_Text" xml:space="preserve">
+    <value>3.Kat</value>
+  </data>
+  <data name="frmduzen_label4_Text" xml:space="preserve">
+    <value>4.Kat</value>
+  </data>
+  <data name="frmduzen_label5_Text" xml:space="preserve">
+    <value>5.Kat</value>
+  </data>
+  <data name="frmduzen_label6_Text" xml:space="preserve">
+    <value>Deneysel(D)</value>
+  </data>
+  <data name="frmekle_0" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="frmekle_1" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="frmekle_2" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="frmekle_3" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="frmekle_4" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="frmekle_5" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="frmekle_ad" xml:space="preserve">
+    <value>Ad</value>
+  </data>
+  <data name="frmekle_AldigiGununTarihi" xml:space="preserve">
+    <value>AldigiGununTarihi</value>
+  </data>
+  <data name="frmekle_AldigiKitabinİsmi" xml:space="preserve">
+    <value>@AldigiKitabinİsmi</value>
+  </data>
+  <data name="frmekle_bilg_acik" xml:space="preserve">
+    <value>Bilgilendirme modu Açık</value>
+  </data>
+  <data name="frmekle_bilg_kapali" xml:space="preserve">
+    <value>Bilgilendirme modu Kapalı</value>
+  </data>
+  <data name="frmekle_btnguncelle_text" xml:space="preserve">
+    <value>Kitap güncelle</value>
+  </data>
+  <data name="frmekle_btnkaydet_text" xml:space="preserve">
+    <value>Kitap kaydet</value>
+  </data>
+  <data name="frmekle_btnsil_text" xml:space="preserve">
+    <value>Kitap sil</value>
+  </data>
+  <data name="frmekle_btntemizle_text" xml:space="preserve">
+    <value>Kutucukları temizle</value>
+  </data>
+  <data name="frmekle_chechkbox1" xml:space="preserve">
+    <value>Türkçe</value>
+  </data>
+  <data name="frmekle_chechkbox2" xml:space="preserve">
+    <value>İngilizce</value>
+  </data>
+  <data name="frmekle_chechkbox3" xml:space="preserve">
+    <value>Diğer</value>
+  </data>
+  <data name="frmekle_editmod_soru" xml:space="preserve">
+    <value>Düzenleme modunu açmak istediğinizden emin misiniz?</value>
+  </data>
+  <data name="frmekle_edit_acik" xml:space="preserve">
+    <value>Düzenleme modu Açık</value>
+  </data>
+  <data name="frmekle_edit_bild" xml:space="preserve">
+    <value>Düzenleme modu açıldı.</value>
+  </data>
+  <data name="frmekle_edit_bildolumsuz" xml:space="preserve">
+    <value>Düzenleme modu açılmadı.</value>
+  </data>
+  <data name="frmekle_edit_kapali" xml:space="preserve">
+    <value>Düzenleme modu Kapalı</value>
+  </data>
+  <data name="frmekle_edit_kapali_bild" xml:space="preserve">
+    <value>Düzenleme modu kapatıldı</value>
+  </data>
+  <data name="frmekle_ekle_basari" xml:space="preserve">
+    <value>Yeni kitap kaydetme işlemi başarılı.</value>
+  </data>
+  <data name="frmekle_ekle_kesinlestir" xml:space="preserve">
+    <value>Kitabı eklemek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="frmekle_ekle_uyari" xml:space="preserve">
+    <value>Yanlış butona basıyorsunuz, sanırım ya güncelleme ya da silme işlemi yapacaktınız?</value>
+  </data>
+  <data name="frmekle_groupBox1" xml:space="preserve">
+    <value>Kitap Düzenle</value>
+  </data>
+  <data name="frmekle_groupBox2" xml:space="preserve">
+    <value>Kitap Ara</value>
+  </data>
+  <data name="frmekle_groupBox3" xml:space="preserve">
+    <value>Kitap Kimde?</value>
+  </data>
+  <data name="frmekle_groupBox4" xml:space="preserve">
+    <value>"Kitap Düzenle"yi aktif et</value>
+  </data>
+  <data name="frmekle_groupBox5" xml:space="preserve">
+    <value>Kitap Dili</value>
+  </data>
+  <data name="frmekle_guncelle_basari" xml:space="preserve">
+    <value>Güncelleme işlemi başarılı.</value>
+  </data>
+  <data name="frmekle_guncelle_kesinlestir_part1" xml:space="preserve">
+    <value>Kitabın bazı özelliklerini değiştirmek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="frmekle_guncelle_uyari" xml:space="preserve">
+    <value>Lütfen güncelleme işlemini kurallara uygun olarak yapınız. Verileri tek tek elinizle girmenize gerek yok, güncellemek istediğiniz kitabın üstüne tıklayıp sadece gerekli yerlerde değişikliği yapmanız yeterli olacaktır.</value>
+  </data>
+  <data name="frmekle_header1" xml:space="preserve">
+    <value>Kitabın İsmi</value>
+  </data>
+  <data name="frmekle_header2" xml:space="preserve">
+    <value>Yazarı</value>
+  </data>
+  <data name="frmekle_header3" xml:space="preserve">
+    <value>Basım Yılı</value>
+  </data>
+  <data name="frmekle_header4" xml:space="preserve">
+    <value>Kitaplığının İsmi</value>
+  </data>
+  <data name="frmekle_header5" xml:space="preserve">
+    <value>Raf Katı</value>
+  </data>
+  <data name="frmekle_header6" xml:space="preserve">
+    <value>Numarası</value>
+  </data>
+  <data name="frmekle_header7" xml:space="preserve">
+    <value>Dili</value>
+  </data>
+  <data name="frmekle_ID" xml:space="preserve">
+    <value>@ID</value>
+  </data>
+  <data name="frmekle_kisi" xml:space="preserve">
+    <value>kisi</value>
+  </data>
+  <data name="frmekle_KitabinYazari" xml:space="preserve">
+    <value>@yazar</value>
+  </data>
+  <data name="frmekle_Kitabinİsmi" xml:space="preserve">
+    <value>@isim</value>
+  </data>
+  <data name="frmekle_KitabınBasımYılı" xml:space="preserve">
+    <value>@yil</value>
+  </data>
+  <data name="frmekle_KitabınRafKatı" xml:space="preserve">
+    <value>@rafkati</value>
+  </data>
+  <data name="frmekle_KitabınRafNumarası" xml:space="preserve">
+    <value>@rafnumarasi</value>
+  </data>
+  <data name="frmekle_KitabınRafınınİsmi" xml:space="preserve">
+    <value>@rafismi</value>
+  </data>
+  <data name="frmekle_kitapid" xml:space="preserve">
+    <value>@kitapid</value>
+  </data>
+  <data name="frmekle_kitaplik" xml:space="preserve">
+    <value>kitaplik</value>
+  </data>
+  <data name="frmekle_label1" xml:space="preserve">
+    <value>Kitabın ismi:</value>
+  </data>
+  <data name="frmekle_label11" xml:space="preserve">
+    <value>Sadece sayı</value>
+  </data>
+  <data name="frmekle_label12" xml:space="preserve">
+    <value>Kitap İşlemleri</value>
+  </data>
+  <data name="frmekle_label13" xml:space="preserve">
+    <value>Kitabın olduğu kişi:</value>
+  </data>
+  <data name="frmekle_label14" xml:space="preserve">
+    <value>Yazar ya da kitap arayınız:</value>
+  </data>
+  <data name="frmekle_label16" xml:space="preserve">
+    <value>Kitabın gelmesi gereken tarih:</value>
+  </data>
+  <data name="frmekle_label17" xml:space="preserve">
+    <value>Düzenleme modu kapalıyken merak ettiğiniz kitabın üstüne tıklayın.</value>
+  </data>
+  <data name="frmekle_label18" xml:space="preserve">
+    <value>Kırmızı renkli kitaplar şuan başka bir arkadaşımızdadır.</value>
+  </data>
+  <data name="frmekle_label19" xml:space="preserve">
+    <value>Eğer kitapta herhangi bir basım yılı yazmıyorsa, basım yılı kutucuğunu boş bırakınız.</value>
+  </data>
+  <data name="frmekle_label2" xml:space="preserve">
+    <value>Yazarı:</value>
+  </data>
+  <data name="frmekle_label23" xml:space="preserve">
+    <value>Kitaplık: </value>
+  </data>
+  <data name="frmekle_label24" xml:space="preserve">
+    <value>Basım yılı: </value>
+  </data>
+  <data name="frmekle_label3" xml:space="preserve">
+    <value>Basım yılı:</value>
+  </data>
+  <data name="frmekle_label4" xml:space="preserve">
+    <value>Kitaplığının ismi:</value>
+  </data>
+  <data name="frmekle_label5" xml:space="preserve">
+    <value>Raf katı:</value>
+  </data>
+  <data name="frmekle_label6" xml:space="preserve">
+    <value>Numarası:</value>
+  </data>
+  <data name="frmekle_label7" xml:space="preserve">
+    <value>Arama şartlarına uygun olan kitap sayısı: :</value>
+  </data>
+  <data name="frmekle_label9" xml:space="preserve">
+    <value>Sadece sayı</value>
+  </data>
+  <data name="frmekle_linklabel1" xml:space="preserve">
+    <value>Arama nasıl yapılır ?</value>
+  </data>
+  <data name="frmekle_linklabel3" xml:space="preserve">
+    <value>Ekle/Sil</value>
+  </data>
+  <data name="frmekle_pictgiris" xml:space="preserve">
+    <value>Lütfen Uygulama Modları Kısmından Düzenleme İşlemini Aktif Hale Getiriniz</value>
+  </data>
+  <data name="frmekle_pict_uyari" xml:space="preserve">
+    <value>Düzenleme modu açılmadan Bilgilendirme modu açılamaz.</value>
+  </data>
+  <data name="frmekle_sahipyok" xml:space="preserve">
+    <value>Bu kitap burada</value>
+  </data>
+  <data name="frmekle_sil_basari" xml:space="preserve">
+    <value>Silme işlemi başarılı.</value>
+  </data>
+  <data name="frmekle_sil_kesinlestir" xml:space="preserve">
+    <value>Kitabı silmek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="frmekle_sil_uyari2" xml:space="preserve">
+    <value>Lütfen silme işlemini kurallara uygun olarak yapınız, butonun üstüne fareyi getirerek nasıl yapacağınızı okuyabilirsiniz.</value>
+  </data>
+  <data name="frmekle_sil_uyari3" xml:space="preserve">
+    <value>Kırmızı renkli kitapları şuan başka birinde olduğu için silemezsiniz.</value>
+  </data>
+  <data name="frmekle_toolmenustrip1" xml:space="preserve">
+    <value>Türkçe</value>
+  </data>
+  <data name="frmekle_toolmenustrip2" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="frmekle_toolmenustrip3" xml:space="preserve">
+    <value>Diğer / Other</value>
+  </data>
+  <data name="frmekle_toolstripmenu0" xml:space="preserve">
+    <value>Dil seçmek için tıklayınız</value>
+  </data>
+  <data name="frmekle_uyaristring" xml:space="preserve">
+    <value> adlı kitap bu dilde mevcut değildir.</value>
+  </data>
+  <data name="frmekle_uyaristring_2" xml:space="preserve">
+    <value> adlı bir kitap mevcut değildir.</value>
+  </data>
+  <data name="frmgrs_btn1" xml:space="preserve">
+    <value>Giriş Yap</value>
+  </data>
+  <data name="frmgrs_grs" xml:space="preserve">
+    <value>Giriş başarılı</value>
+  </data>
+  <data name="frmgrs_label1" xml:space="preserve">
+    <value>Kullanıcı Adı:</value>
+  </data>
+  <data name="frmgrs_label2" xml:space="preserve">
+    <value>Şifre:</value>
+  </data>
+  <data name="frmgrs_linklabel1" xml:space="preserve">
+    <value>Şifremi Unuttum</value>
+  </data>
+  <data name="frmgrs_linklabel2" xml:space="preserve">
+    <value>Bilgilerimi Güncelle</value>
+  </data>
+  <data name="frmgrs_msg" xml:space="preserve">
+    <value>Hatalı kullanıcı adı ya da şifre girişi yapıldı.</value>
+  </data>
+  <data name="frmhataliid_label" xml:space="preserve">
+    <value>Diyelim ki 133.ID'ye sahip kişiyle iletişime geçmiştiniz ama yanlışlıkla 134.ID'ye sahip kişiyle iletişime geçildiğini bildirdiniz, Hatalı ID Düzelt kısmında yanlışlıkla seçtiğiniz ID'yi düzeltip daha sonra İletişime Geç kısmında doğru kişi ile iletişime geçildiğini bildirebilirsiniz.</value>
+  </data>
+  <data name="frmhataliid__frmname" xml:space="preserve">
+    <value>Hatalı ID Seçimi Nedir?</value>
+  </data>
+  <data name="frmkisi_aldigigununtarihi" xml:space="preserve">
+    <value>@AldigiGununTarihi</value>
+  </data>
+  <data name="frmkisi_aldigikitabinismi" xml:space="preserve">
+    <value>@AldigiKitabinİsmi</value>
+  </data>
+  <data name="frmkisi_boskutucuk_mb_part1" xml:space="preserve">
+    <value>Kutucukları boş bırakmayınız.</value>
+  </data>
+  <data name="frmkisi_boskutucuk_mb_part1_button6" xml:space="preserve">
+    <value>Lütfen kutucuktan bir ID seçin.</value>
+  </data>
+  <data name="frmkisi_btnekle_text" xml:space="preserve">
+    <value>Ekle</value>
+  </data>
+  <data name="frmkisi_btnekle_tooltiptext" xml:space="preserve">
+    <value>Ekleme İşlemi Nasıl Yapılır ?
+   *4 kutucuga dogru bilgileri girerek kayıt ekleme işlemini tamamlayabilirsiniz.</value>
+  </data>
+  <data name="frmkisi_btnekle_tooltiptext1" xml:space="preserve">
+    <value>Ekleme İşlemi Nasıl Yapılır ?
+   *7 kutucuga dogru bilgileri girerek kayıt ekleme işlemini tamamlayabilirsiniz.</value>
+  </data>
+  <data name="frmkisi_btnguncelle_text" xml:space="preserve">
+    <value>Güncelle</value>
+  </data>
+  <data name="frmkisi_btnguncelle_tooltiptext" xml:space="preserve">
+    <value>Güncelleme işlemi nasıl yapılır ?
+     *hangi veriyi düzeltmek/güncellemek istiyorsanız osatırdaki herhangi bir yere tıklayın.
+     *Veriler kutucuklara otomatik olarak aktarılacak, bundan sonra hangisini yanlış girdiyseniz ya da düzeltmek istiyorsanız onlara yeni değerlerini yazarak butona basınız.</value>
+  </data>
+  <data name="frmkisi_btnsil_text" xml:space="preserve">
+    <value>Sil</value>
+  </data>
+  <data name="frmkisi_btnsil_tooltiptext" xml:space="preserve">
+    <value>Silme işlemi nasıl yapılır ?
+     *Hangi satırdaki veriyi silmek istiyorsanız orada herhangi bir yere tıklayın ve ardından butona basın.</value>
+  </data>
+  <data name="frmkisi_btnuzat_text" xml:space="preserve">
+    <value>Süre uzat</value>
+  </data>
+  <data name="frmkisi_btnuzat_tooltiptext" xml:space="preserve">
+    <value>Süre Uzatma işlemi nasıl yapılır ?
+     *Kimin süresini uzatmak istiyorsanız o kişinin satırında herhangi bir yere tıklayın.
+     *Veriler kutucuklara otomatik olarak aktarılacak, sonra "süre uzat" butonuna tıkladığınız anda süresi 1 ay daha uzamış olacak.</value>
+  </data>
+  <data name="frmkisi_bugün" xml:space="preserve">
+    <value>@Bugün</value>
+  </data>
+  <data name="frmkisi_bugüneng" xml:space="preserve">
+    <value>@Bugüneng</value>
+  </data>
+  <data name="frmkisi_buton5_hata_part1" xml:space="preserve">
+    <value>Bu kişiyle daha önce iletişime geçilmiş</value>
+  </data>
+  <data name="frmkisi_buton6_uyarı" xml:space="preserve">
+    <value>Lütfen kutucuktan bir ID seçin</value>
+  </data>
+  <data name="frmkisi_button4_tooltiptext" xml:space="preserve">
+    <value>Kutucukları temizlemeye yarar.</value>
+  </data>
+  <data name="frmkisi_button5_mb_part1" xml:space="preserve">
+    <value>İletişime geçildiği başarıyla kaydedildi.</value>
+  </data>
+  <data name="frmkisi_button5_Text" xml:space="preserve">
+    <value>İletişime geçildiğini bildir</value>
+  </data>
+  <data name="frmkisi_button5_tooltiptext" xml:space="preserve">
+    <value>Buranın işlevi basit, burada kitabı almasının üstünden 2 ay geçen kişiler yer alır.
+Kişilerin telefon numaraları ile irtibata geçilip kitabı getirmeleri istenecek. 
+ve o kişinin ID numarası seçilerek bu butona tıklanacak ve daha sonra, programda, iletişime
+geçme tarihiniz kaydedilmiş olacak</value>
+  </data>
+  <data name="frmkisi_button6_mb_part1" xml:space="preserve">
+    <value>Düzeltme işlemi başarılı.</value>
+  </data>
+  <data name="frmkisi_button6_Text" xml:space="preserve">
+    <value>Düzelt</value>
+  </data>
+  <data name="frmkisi_cokbuyukdeger_part1" xml:space="preserve">
+    <value>Sayısal değerler için olması gerekenden daha büyük bir değer girdiniz, lütfen daha küçük bir sayı yazınız.</value>
+  </data>
+  <data name="frmkisi_datetime_hhmm" xml:space="preserve">
+    <value>HH:mm</value>
+  </data>
+  <data name="frmkisi_ekle_kesinlestir_mb_part1" xml:space="preserve">
+    <value>Kişiyi eklemek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="frmkisi_ekle_mb_part1" xml:space="preserve">
+    <value>Kişi Ekleme Başarılı</value>
+  </data>
+  <data name="frmkisi_ekle_yanlisislem_mb_part1" xml:space="preserve">
+    <value>Yanlış butona basıyorsunuz, sanırım ya güncelleme ya da silme işlemi yapacaktınız?</value>
+  </data>
+  <data name="frmkisi_groupbox1text" xml:space="preserve">
+    <value>Hatalı ID seçimini düzelt</value>
+  </data>
+  <data name="frmkisi_groupbox2text" xml:space="preserve">
+    <value>İletişime Geç</value>
+  </data>
+  <data name="frmkisi_guncelle_kesinlestir_mb_part1" xml:space="preserve">
+    <value>Kişinin bazı bilgilerini değiştirmek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="frmkisi_guncelle_mb_part1" xml:space="preserve">
+    <value>Güncelleme Başarıyla Tamamlandı</value>
+  </data>
+  <data name="frmkisi_guncelle_yanlisislem_mb_part1" xml:space="preserve">
+    <value>Lütfen Güncelleme İşlemini Kurallara Uygun Olarak Yapınız, butonun üstüne fareyi getirerek nasıl yapacağınızı okuyabilirsiniz.</value>
+  </data>
+  <data name="frmkisi_ID" xml:space="preserve">
+    <value>@ID</value>
+  </data>
+  <data name="frmkisi_ilkiletisim" xml:space="preserve">
+    <value>@ilkiletisim</value>
+  </data>
+  <data name="frmkisi_isim" xml:space="preserve">
+    <value>@İsim</value>
+  </data>
+  <data name="frmkisi_kisi" xml:space="preserve">
+    <value>@kisi</value>
+  </data>
+  <data name="frmkisi_kisiler" xml:space="preserve">
+    <value>kisiler</value>
+  </data>
+  <data name="frmkisi_kitap" xml:space="preserve">
+    <value>kitap</value>
+  </data>
+  <data name="frmkisi_kitapid" xml:space="preserve">
+    <value>@kitapid</value>
+  </data>
+  <data name="frmkisi_label1" xml:space="preserve">
+    <value>İsim ve soyisim:</value>
+  </data>
+  <data name="frmkisi_label2" xml:space="preserve">
+    <value>İletişime geçilen kişinin ID numarasını seçiniz: </value>
+  </data>
+  <data name="frmkisi_label21_acik" xml:space="preserve">
+    <value>Bilgilendirme Açık</value>
+  </data>
+  <data name="frmkisi_label21_kapali" xml:space="preserve">
+    <value>Bilgilendirme Kapalı</value>
+  </data>
+  <data name="frmkisi_label22" xml:space="preserve">
+    <value>Kişi ara:</value>
+  </data>
+  <data name="frmkisi_label3" xml:space="preserve">
+    <value>Sınıf:</value>
+  </data>
+  <data name="frmkisi_label4" xml:space="preserve">
+    <value>Telefon numarası:</value>
+  </data>
+  <data name="frmkisi_label5" xml:space="preserve">
+    <value>Kitap ismi:</value>
+  </data>
+  <data name="frmkisi_label6" xml:space="preserve">
+    <value>Kişi İşlemleri </value>
+  </data>
+  <data name="frmkisi_label9" xml:space="preserve">
+    <value>Lütfen burada herhangi bir işlem yapmadan önce "İletişime geçildiğini bildir" butonunun üstüne fareyi getirerek çıkan uyarıyı okuyunuz!</value>
+  </data>
+  <data name="frmkisi_linklabel1" xml:space="preserve">
+    <value>Hatalı ID seçimi nedir?</value>
+  </data>
+  <data name="frmkisi_linklabel2" xml:space="preserve">
+    <value>Kitap seç</value>
+  </data>
+  <data name="frmkisi_load_aldigikitabinismi" xml:space="preserve">
+    <value>Aldığı Kitabın İsmi</value>
+  </data>
+  <data name="frmkisi_load_isimsoyisim" xml:space="preserve">
+    <value>İsim ve Soyisim</value>
+  </data>
+  <data name="frmkisi_load_sinif" xml:space="preserve">
+    <value>Sınıf</value>
+  </data>
+  <data name="frmkisi_no" xml:space="preserve">
+    <value>No</value>
+  </data>
+  <data name="frmkisi_sil_kesinlestir_mb_part1" xml:space="preserve">
+    <value>Kişiyi silmek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="frmkisi_sil_mb_part1" xml:space="preserve">
+    <value>Silme başarılı</value>
+  </data>
+  <data name="frmkisi_sil_yanlisislem_mb_part1" xml:space="preserve">
+    <value>Lütfen Silme İşlemini Kurallara Uygun Olarak Yapınız, butonun üstüne fareyi getirerek nasıl yapacağınızı okuyabilirsiniz.</value>
+  </data>
+  <data name="frmkisi_sinif" xml:space="preserve">
+    <value>@Sinif</value>
+  </data>
+  <data name="frmkisi_sinifeng" xml:space="preserve">
+    <value>@Sinifeng</value>
+  </data>
+  <data name="frmkisi_sinif_birinci" xml:space="preserve">
+    <value>1.Sınıf</value>
+  </data>
+  <data name="frmkisi_sinif_birinci_eng" xml:space="preserve">
+    <value>Freshman(1)</value>
+  </data>
+  <data name="frmkisi_sinif_dorduncu" xml:space="preserve">
+    <value>4.Sınıf</value>
+  </data>
+  <data name="frmkisi_sinif_dorduncu_eng" xml:space="preserve">
+    <value>Senior(4)</value>
+  </data>
+  <data name="frmkisi_sinif_hazirlik" xml:space="preserve">
+    <value>Hazırlık</value>
+  </data>
+  <data name="frmkisi_sinif_hazirlik_eng" xml:space="preserve">
+    <value>Preppy(H)</value>
+  </data>
+  <data name="frmkisi_sinif_ikinci" xml:space="preserve">
+    <value>2.Sınıf</value>
+  </data>
+  <data name="frmkisi_sinif_ikinci_eng" xml:space="preserve">
+    <value>Sophomore(2)</value>
+  </data>
+  <data name="frmkisi_sinif_ucuncu" xml:space="preserve">
+    <value>3.Sınıf</value>
+  </data>
+  <data name="frmkisi_sinif_ucuncu_eng" xml:space="preserve">
+    <value>Junior(3)</value>
+  </data>
+  <data name="frmkisi_sure" xml:space="preserve">
+    <value>@Sure</value>
+  </data>
+  <data name="frmkisi_tabpage3_text" xml:space="preserve">
+    <value>Teslim Etmesi Gereken Kişiler</value>
+  </data>
+  <data name="frmkisi_tabpage6_text" xml:space="preserve">
+    <value>Kişi Düzenleme</value>
+  </data>
+  <data name="frmkisi_tahoma" xml:space="preserve">
+    <value>Tahoma</value>
+  </data>
+  <data name="frmkisi_telno" xml:space="preserve">
+    <value>@TelefonNumarasi</value>
+  </data>
+  <data name="frmkisi_teslimtarihi" xml:space="preserve">
+    <value>@TeslimTarihi</value>
+  </data>
+  <data name="frmkisi_teslimtarihieng" xml:space="preserve">
+    <value>@TeslimTarihieng</value>
+  </data>
+  <data name="frmkisi_tüm" xml:space="preserve">
+    <value>tüm</value>
+  </data>
+  <data name="frmkisi_varyokeng" xml:space="preserve">
+    <value>@varyokeng</value>
+  </data>
+  <data name="frmkisi_xyz_bes" xml:space="preserve">
+    <value>AldigiKitabinİsmi</value>
+  </data>
+  <data name="frmkisi_xyz_bir" xml:space="preserve">
+    <value>AldigiGununTarihi</value>
+  </data>
+  <data name="frmkisi_xyz_iki" xml:space="preserve">
+    <value>İsim</value>
+  </data>
+  <data name="frmkisi_xyz_on" xml:space="preserve">
+    <value>TelefonNumarasi</value>
+  </data>
+  <data name="frmkisi_xyz_onbir" xml:space="preserve">
+    <value>kitapid</value>
+  </data>
+  <data name="frmkisi_xyz_sekiz" xml:space="preserve">
+    <value>AldigiGununTarihi</value>
+  </data>
+  <data name="frmkisi_xyz_uc" xml:space="preserve">
+    <value>ID</value>
+  </data>
+  <data name="frmkisi_xyz_yedi" xml:space="preserve">
+    <value>AldigiKitabinİsmi</value>
+  </data>
+  <data name="frmkisi_yok" xml:space="preserve">
+    <value>Yok</value>
+  </data>
+  <data name="frmkitapara_bilg" xml:space="preserve">
+    <value>Kitap seçme işlemi başarıyla gerçekleştirilmiştir.</value>
+  </data>
+  <data name="frmkitapara_btnkitapsec_text" xml:space="preserve">
+    <value>Kitabı seç</value>
+  </data>
+  <data name="frmkitapara_label1" xml:space="preserve">
+    <value>Lütfen kitabın ya da yazarın ismini Yazınız:</value>
+  </data>
+  <data name="frmkitapara_label2" xml:space="preserve">
+    <value>Doğru kitabı seçtiğinizden emin olmak için tüm bilgilerin doğru olmasına özen gösteriniz</value>
+  </data>
+  <data name="frmkitapara_label3" xml:space="preserve">
+    <value>Kitap Seçme Menüsü</value>
+  </data>
+  <data name="frmkitapara_label4" xml:space="preserve">
+    <value>Kırmızı renkli kitaplar şuan başka bir arkadaşımızdadır.</value>
+  </data>
+  <data name="frmkitapara_linklabel1" xml:space="preserve">
+    <value>Kitap seçimi nasıl yapılır?</value>
+  </data>
+  <data name="frmkitapara_linklabel2" xml:space="preserve">
+    <value>Kitap arama nasıl yapılır?</value>
+  </data>
+  <data name="frmkitapara_soru" xml:space="preserve">
+    <value>Herhangi bir kitap seçimi yapmadınız geri dönmek istediğinize emin misiniz?(kitap seçimini yapmak için lütfen istediğiniz kitabın üstüne tıklayın ve kitap seç butonuna basın)</value>
+  </data>
+  <data name="frmkitapara_uyari" xml:space="preserve">
+    <value>Lütfen seçmek istediğiniz kitabın üstüne tıklayınız.</value>
+  </data>
+  <data name="frmkitapara_uyarı2" xml:space="preserve">
+    <value>Kırmızı renkli kitaplar şuan başka birinde demektir ve bu yüzden kırmızı renkli kitapları seçemezsiniz</value>
+  </data>
+  <data name="frmkitaplik" xml:space="preserve">
+    <value>kitaplik</value>
+  </data>
+  <data name="frmkitapliksil_kesinles" xml:space="preserve">
+    <value>Kitaplık ismi silmek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="frmkitaplik_ekle" xml:space="preserve">
+    <value>Ekle</value>
+  </data>
+  <data name="frmkitaplik_frmname" xml:space="preserve">
+    <value>Kitaplık Düzenle</value>
+  </data>
+  <data name="frmkitaplik_kesinles" xml:space="preserve">
+    <value>Kitaplık ismi eklemek istediğinizden emin misiniz?</value>
+  </data>
+  <data name="frmkitaplik_mb1" xml:space="preserve">
+    <value>Kitaplık ismi ekleme başarılı</value>
+  </data>
+  <data name="frmkitaplik_sil" xml:space="preserve">
+    <value>Sil</value>
+  </data>
+  <data name="frmkitaplik_Sil_2" xml:space="preserve">
+    <value>Kitaplık ismi silme başarılı</value>
+  </data>
+  <data name="frmkural_formtext" xml:space="preserve">
+    <value>Kitap Alma Kuralları</value>
+  </data>
+  <data name="frmkural_groupbox_Text" xml:space="preserve">
+    <value>Kural Listesi</value>
+  </data>
+  <data name="frmkural_label5" xml:space="preserve">
+    <value>1-) Kitapla ilgili tüm sorumluluklar alan kişiye aittir. Kitap kullanılamayacak kadar kötü bir hale gelmesi durumunda yenisi istenecektir.</value>
+  </data>
+  <data name="frmkural_label6" xml:space="preserve">
+    <value>2-) Odada bulunan tezlerin dışarı çıkarılması, orada da belirtildigi gibi kesinlikle yasaktır!</value>
+  </data>
+  <data name="frmsifre_btn1" xml:space="preserve">
+    <value>Onaylıyorum</value>
+  </data>
+  <data name="frmsifre_label1" xml:space="preserve">
+    <value>Mailinizi giriniz:</value>
+  </data>
+  <data name="frmsifre_label2" xml:space="preserve">
+    <value>Doğrulama kodu:</value>
+  </data>
+  <data name="frmsifre_label6" xml:space="preserve">
+    <value>Yeni Şifreniz:</value>
+  </data>
+  <data name="frmtüm_formisim" xml:space="preserve">
+    <value>Tüm HÜPT Kayıtları</value>
+  </data>
+  <data name="frmtüm_headertextbes" xml:space="preserve">
+    <value>Telefon Numarası</value>
+  </data>
+  <data name="frmtüm_headertextbir" xml:space="preserve">
+    <value>Sınıf</value>
+  </data>
+  <data name="frmtüm_headertextdort" xml:space="preserve">
+    <value>Teslim Tarihi</value>
+  </data>
+  <data name="frmtüm_headertextiki" xml:space="preserve">
+    <value>Aldığı Kitabın İsmi</value>
+  </data>
+  <data name="frmtüm_headertextsifir" xml:space="preserve">
+    <value>İsim ve Soyisim</value>
+  </data>
+  <data name="frmtüm_headertextuc" xml:space="preserve">
+    <value>Aldığı Günün Tarihi</value>
+  </data>
+  <data name="frmtüm_label1" xml:space="preserve">
+    <value>Kişi ya da kitap arayabilirsiniz:</value>
+  </data>
+  <data name="frm_asd" xml:space="preserve">
+    <value>Herhangi bir dil seçili olmadığı takdirde kayıtlı olan tüm kitap kitap sayısını belirtir.</value>
+  </data>
+  <data name="frm_bir" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="frm_dil" xml:space="preserve">
+    <value>Dili:</value>
+  </data>
+  <data name="frm_dil_2" xml:space="preserve">
+    <value>Dil: </value>
+  </data>
+  <data name="frm_dil_label20" xml:space="preserve">
+    <value>Seçilen kitap ID: </value>
+  </data>
+  <data name="frm_sifir" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="fsdads" xml:space="preserve">
+    <value>Lütfen kutucuğu doldurunuz ve "hotmail" ya da "gmail" uzantılı olmasına özen gösteriniz.</value>
+  </data>
+  <data name="fsdagad" xml:space="preserve">
+    <value>Mail adresiniz bulunmuştur.</value>
+  </data>
+  <data name="g" xml:space="preserve">
+    <value>@sifre</value>
+  </data>
+  <data name="gdfhgh" xml:space="preserve">
+    <value>Yeni şifre oluşturmanız için doğrulama kodu</value>
+  </data>
+  <data name="gdsa" xml:space="preserve">
+    <value>Kayıtlı olan isim</value>
+  </data>
+  <data name="gelmesigerekentarih" xml:space="preserve">
+    <value>   | Gelmesi Gereken Tarih: (Geç bunu görünmesede olur)</value>
+  </data>
+  <data name="gfdafd" xml:space="preserve">
+    <value>Click to select the language</value>
+  </data>
+  <data name="gfdbsfd" xml:space="preserve">
+    <value>@yapilanislem</value>
+  </data>
+  <data name="gfddsa" xml:space="preserve">
+    <value>Lütfen geçerli bir telefon numarası giriniz</value>
+  </data>
+  <data name="gfdhdf" xml:space="preserve">
+    <value>Giriş başarılı, sistemde kayıtlı olan e-mailinize doğrulama kodu gönderilmiştir.</value>
+  </data>
+  <data name="gfhfd" xml:space="preserve">
+    <value>Verilerde hiçbir değişiklik yapılmadı ki neyi güncelleyim?</value>
+  </data>
+  <data name="ggggg" xml:space="preserve">
+    <value>Tarih ve Saat</value>
+  </data>
+  <data name="ghgf" xml:space="preserve">
+    <value>ID numaralı kitap silme işleminiz işlem kaydına başarıyla eklendi.</value>
+  </data>
+  <data name="ghsg" xml:space="preserve">
+    <value>Siz olduğunuzu başarıyla onayladık, artık yeni şifre alma işlemine başlayabilirsiniz.</value>
+  </data>
+  <data name="ghyı" xml:space="preserve">
+    <value>Kayıtlı olan sınıf ismi</value>
+  </data>
+  <data name="güncelle" xml:space="preserve">
+    <value>güncelle</value>
+  </data>
+  <data name="h" xml:space="preserve">
+    <value>@mail</value>
+  </data>
+  <data name="Hata" xml:space="preserve">
+    <value>Hata</value>
+  </data>
+  <data name="Hazırlık" xml:space="preserve">
+    <value>Hazırlık</value>
+  </data>
+  <data name="hddfh" xml:space="preserve">
+    <value>Lütfen kutucukların yanında beliren yeşil simgeyi görmeden kitap seçme işlemine geçmeyiniz.</value>
+  </data>
+  <data name="hddhfdhd" xml:space="preserve">
+    <value>Üstteki alanlar doldurulmadan kitap seçme işlemine geçilemez.</value>
+  </data>
+  <data name="hfgd" xml:space="preserve">
+    <value> ID numaralı kişi üstünde yaptığınız değişiklikler işlem kaydına başarıyla kaydedildi.</value>
+  </data>
+  <data name="hgf" xml:space="preserve">
+    <value> ID numaralı kişiyi ekleme işleminiz işlem kaydına başarıyla eklendi.</value>
+  </data>
+  <data name="hgfhgf" xml:space="preserve">
+    <value>Kayıtlı olan kitap ismi</value>
+  </data>
+  <data name="hrtrhyh" xml:space="preserve">
+    <value>Kayıtlı olan basım yılı</value>
+  </data>
+  <data name="htrhg" xml:space="preserve">
+    <value>Kayıtlı olan soyisim</value>
+  </data>
+  <data name="hyg" xml:space="preserve">
+    <value>4. Sistem üstüne kayıtlı her türlü bilginizi değiştirebilirsiniz, değiştirmek istemediğiniz bilgileriniz varsa onlara hiç dokunmadan butona basınız.</value>
+  </data>
+  <data name="hüpt" xml:space="preserve">
+    <value>HÜPT</value>
+  </data>
+  <data name="ID" xml:space="preserve">
+    <value> | ID: </value>
+  </data>
+  <data name="iletisimegecilmetarihi" xml:space="preserve">
+    <value> | İletişime Geçilme Tarihi: </value>
+  </data>
+  <data name="islemdokum" xml:space="preserve">
+    <value>islemdokum</value>
+  </data>
+  <data name="islemdokumadm" xml:space="preserve">
+    <value>islemdokumadm</value>
+  </data>
+  <data name="j" xml:space="preserve">
+    <value>@ad</value>
+  </data>
+  <data name="jytjdf" xml:space="preserve">
+    <value>adına yeni şifre oluşturma işlemi başarıyla tamamlanmıştır.</value>
+  </data>
+  <data name="k" xml:space="preserve">
+    <value>@soyad</value>
+  </data>
+  <data name="kapali" xml:space="preserve">
+    <value>Kapalı</value>
+  </data>
+  <data name="kapalii" xml:space="preserve">
+    <value>Kapalı</value>
+  </data>
+  <data name="kim" xml:space="preserve">
+    <value>Hiç kimse</value>
+  </data>
+  <data name="kitabinoldugukisi" xml:space="preserve">
+    <value>  | Kitabın Oldugu Kişi: </value>
+  </data>
+  <data name="kitapsayisi" xml:space="preserve">
+    <value>Kayıtlı olan tüm kitap sayısı:</value>
+  </data>
+  <data name="kitapsüresiuzatmahakki" xml:space="preserve">
+    <value> Kitap süresi Uzatma Hakkı: </value>
+  </data>
+  <data name="klo" xml:space="preserve">
+    <value>2. Bilgilerinizi güncellerken internetin bağlı olmasına özen gösteriniz.</value>
+  </data>
+  <data name="label28" xml:space="preserve">
+    <value>İki yıl arasında arama yapmak istiyorum:</value>
+  </data>
+  <data name="label2_frmtüm" xml:space="preserve">
+    <value>***Tablo boyutundan dolayı okuyamadığınız bir kısım olursa, o kısmın başlığını uzatıp kısaltarak okuyabilirsiniz. Tabloyu geri eski haline döndürmek isterseniz yandaki butona tıklayarak yapabilirsiniz***</value>
+  </data>
+  <data name="label2_frmtüm_2" xml:space="preserve">
+    <value>***Tablo boyutundan dolayı okuyamadığınız bir kısım olursa, o kısmın başlığını uzatıp kısaltarak okuyabilirsiniz. Tabloyu geri eski haline döndürmek isterseniz aşağıdaki butona tıklayarak yapabilirsiniz***</value>
+  </data>
+  <data name="mail" xml:space="preserve">
+    <value>@mail</value>
+  </data>
+  <data name="maill" xml:space="preserve">
+    <value>huptkutuphane@gmail.com</value>
+  </data>
+  <data name="mb_1" xml:space="preserve">
+    <value>Lütfen önce açık olan admin yetkisini kapatınız.</value>
+  </data>
+  <data name="mb_2" xml:space="preserve">
+    <value>Adminlik yetkinizi kapatmak istediğinize emin misiniz?</value>
+  </data>
+  <data name="mb_3" xml:space="preserve">
+    <value>Lütfen önce adminlik yetkinizi alınız ya da giriş yapınız.</value>
+  </data>
+  <data name="msg" xml:space="preserve">
+    <value>Program üstünde kişi ya da kitap düzenleme gibi bir isteğiniz varsa bunun için admin yetkisi almanız gerekiyor. Programın veri düzenleme kısmını kontrolsüz şekilde herkese açık bırakmak yerine kısmi bir serbestlik bırakmak istedik ve bu yüzden veri düzenlemesi yapmak isteyenlere admin olma şartı koyduk(e mailini onaylatan herhangi bir arkadaşımız admin olabilir). Bunun sayesinde program üstünde yapılan her türlü veri düzenlemenin bir yedeği alınabilecek(adminlerin işlem kaydında bu yedekleme görülebilir)  ve olası bir yanlış veri düzenlemede geri eski haline dönüş sağlanabilecek.</value>
+  </data>
+  <data name="msg2" xml:space="preserve">
+    <value>Neden admin yetkisi almalıyım</value>
+  </data>
+  <data name="msg3" xml:space="preserve">
+    <value>Dergi makaleleri hakkında</value>
+  </data>
+  <data name="msg4" xml:space="preserve">
+    <value>Dergi makalelerini aramak için program üstünden destek veremeyeceğim maalesef çünkü(çok uzun sürer) dergi makalelerini aramak için hali hazırda kurulan bir sürü internet siteleri var, işinize yarayacak olan içerikleri bu sayfalardan araştırdıktan sonra, program üstünden, bulmak istediğiniz derginin cilt ve sayı numarasından arayarak kütüphanemizde olup olmadığını görebilirsiniz.</value>
+  </data>
+  <data name="mssg" xml:space="preserve">
+    <value>,adminlik yetkinizi açmak için girmeniz gereken tek kullanımlık doğrulama kodu: </value>
+  </data>
+  <data name="nasiyok" xml:space="preserve">
+    <value>KitabınBasımYılı</value>
+  </data>
+  <data name="nelabu" xml:space="preserve">
+    <value> | </value>
+  </data>
+  <data name="nokta" xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="oledbcon" xml:space="preserve">
+    <value>Provider=Microsoft.ACE.Oledb.12.0;Data Source=kutuphane.accdb</value>
+  </data>
+  <data name="ooooo" xml:space="preserve">
+    <value>Kullanıcı Adı</value>
+  </data>
+  <data name="Other" xml:space="preserve">
+    <value>Diğer / Other</value>
+  </data>
+  <data name="prg_kapa" xml:space="preserve">
+    <value>Programı kapatmak istediğinize emin misiniz?</value>
+  </data>
+  <data name="Programagiris_dilsecim_Text" xml:space="preserve">
+    <value>Dil Seçimi</value>
+  </data>
+  <data name="Programagiris_englishtoolstrip_Text" xml:space="preserve">
+    <value>English</value>
+  </data>
+  <data name="Programagiris_messageboxpart1_giris" xml:space="preserve">
+    <value>Giriş başarılı</value>
+  </data>
+  <data name="Programagiris_messageboxpart1_hataligiris" xml:space="preserve">
+    <value>Kullanıcı Adı veya Şifre Hatalı</value>
+  </data>
+  <data name="Programagiris_messageboxpart1_kutucukhata" xml:space="preserve">
+    <value>Kutucukları boş bırakmayınız</value>
+  </data>
+  <data name="Programagiris_turkcetoolstrip_Text" xml:space="preserve">
+    <value>Türkçe</value>
+  </data>
+  <data name="Programagiris_日本語toolstrip_Text" xml:space="preserve">
+    <value>日本語</value>
+  </data>
+  <data name="Programgiris_Button1_Text" xml:space="preserve">
+    <value>Çıkış Yap</value>
+  </data>
+  <data name="Programgiris_Button2_Text" xml:space="preserve">
+    <value>Giriş Yap</value>
+  </data>
+  <data name="qqqqqq" xml:space="preserve">
+    <value>Mail</value>
+  </data>
+  <data name="rewrer" xml:space="preserve">
+    <value>Kayıtlı olan yazar ismi</value>
+  </data>
+  <data name="rtertte" xml:space="preserve">
+    <value>Kayıtlı olan dil</value>
+  </data>
+  <data name="sdsgsd" xml:space="preserve">
+    <value>Geri dönmek istediğinize emin misiniz?</value>
+  </data>
+  <data name="sifir" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="sifree" xml:space="preserve">
+    <value>wundt1879</value>
+  </data>
+  <data name="sil" xml:space="preserve">
+    <value>sil</value>
+  </data>
+  <data name="smtp" xml:space="preserve">
+    <value>smtp.gmail.com</value>
+  </data>
+  <data name="Soru" xml:space="preserve">
+    <value>Soru</value>
+  </data>
+  <data name="string_fe" xml:space="preserve">
+    <value>Henüz Teslim Edilmedi</value>
+  </data>
+  <data name="string_fe2" xml:space="preserve">
+    <value>Not Checked-out Yet</value>
+  </data>
+  <data name="string_iletisimegecilmedi" xml:space="preserve">
+    <value>İletişime Geçilmedi</value>
+  </data>
+  <data name="string_notcontacted" xml:space="preserve">
+    <value>Not Contacted Yet</value>
+  </data>
+  <data name="string_soruisareti" xml:space="preserve">
+    <value>?</value>
+  </data>
+  <data name="string_tik" xml:space="preserve">
+    <value>✔</value>
+  </data>
+  <data name="string_var" xml:space="preserve">
+    <value>Var</value>
+  </data>
+  <data name="string_yok" xml:space="preserve">
+    <value>Yok</value>
+  </data>
+  <data name="suitable" xml:space="preserve">
+    <value>Uygun</value>
+  </data>
+  <data name="tahir" xml:space="preserve">
+    <value>Tahir</value>
+  </data>
+  <data name="telefonnumarasi" xml:space="preserve">
+    <value> | Telefon Numarası: </value>
+  </data>
+  <data name="tesekkür" xml:space="preserve">
+    <value>Teşekkür ve Mesaj</value>
+  </data>
+  <data name="tfg" xml:space="preserve">
+    <value>ABCÇDEFGĞHİJKLMNÖPRSŞTUÜVYZabcçdefgğhıijkmnöprsştuüvyz123456789</value>
+  </data>
+  <data name="trehdf" xml:space="preserve">
+    <value>Kayıtlı olan Kullanıcı adı</value>
+  </data>
+  <data name="trfhtr" xml:space="preserve">
+    <value>Kayıtlı olan e-mail</value>
+  </data>
+  <data name="tytfdh" xml:space="preserve">
+    <value>Bilgilerinizi güncellemek için doğrulama kodu</value>
+  </data>
+  <data name="tyutgfdd" xml:space="preserve">
+    <value>,bilgilerinizi güncellemek için girmeniz gereken tek kullanımlık doğrulama kodu: </value>
+  </data>
+  <data name="tyytjh" xml:space="preserve">
+    <value>ID numaralı kitap ekleme işleminiz işlem kaydına başarıyla eklendi.</value>
+  </data>
+  <data name="Türkçe" xml:space="preserve">
+    <value>Türkçe</value>
+  </data>
+  <data name="update" xml:space="preserve">
+    <value>Güncelle</value>
+  </data>
+  <data name="Uyarı" xml:space="preserve">
+    <value>Uyarı</value>
+  </data>
+  <data name="verifi" xml:space="preserve">
+    <value>Adminlik için doğrulama kodu</value>
+  </data>
+  <data name="vfdbfd" xml:space="preserve">
+    <value>Kayıtlı olan numarası</value>
+  </data>
+  <data name="xxx" xml:space="preserve">
+    <value>____________________</value>
+  </data>
+  <data name="yapıldı" xml:space="preserve">
+    <value>Yapıldı</value>
+  </data>
+  <data name="yapılmadı" xml:space="preserve">
+    <value>Yapılmadı</value>
+  </data>
+  <data name="ytrjgf" xml:space="preserve">
+    <value>,yeni şifrenizi oluşturmak için girmeniz gereken tek kullanımlık doğrulama kodu:</value>
+  </data>
+  <data name="yuj" xml:space="preserve">
+    <value>Kayıtlı olan kişi ismi</value>
+  </data>
+  <data name="yyyyyy" xml:space="preserve">
+    <value>___________</value>
+  </data>
+</root>

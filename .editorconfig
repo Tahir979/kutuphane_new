@@ -1,0 +1,7 @@
+﻿[*.cs]
+
+# IDE1006: Adlandırma Stilleri
+dotnet_diagnostic.IDE1006.severity = none
+
+# CS0169: 'frmkitaplik.komut' alanı hiçbir zaman kullanılmaz
+dotnet_diagnostic.CS0169.severity = none
